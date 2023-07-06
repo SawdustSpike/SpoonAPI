@@ -1,0 +1,17 @@
+C:\Users\spike\source\repos new\SpoonAPI\bin\Debug\net7.0\SpoonAPI.exe
+C:\Users\spike\source\repos new\SpoonAPI\bin\Debug\net7.0\SpoonAPI.deps.json
+C:\Users\spike\source\repos new\SpoonAPI\bin\Debug\net7.0\SpoonAPI.runtimeconfig.json
+C:\Users\spike\source\repos new\SpoonAPI\bin\Debug\net7.0\SpoonAPI.dll
+C:\Users\spike\source\repos new\SpoonAPI\bin\Debug\net7.0\SpoonAPI.pdb
+C:\Users\spike\source\repos new\SpoonAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.csproj.AssemblyReference.cache
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.AssemblyInfoInputs.cache
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.AssemblyInfo.cs
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.csproj.CoreCompileInputs.cache
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.csproj.CopyComplete
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.dll
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\refint\SpoonAPI.dll
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.pdb
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\SpoonAPI.genruntimeconfig.cache
+C:\Users\spike\source\repos new\SpoonAPI\obj\Debug\net7.0\ref\SpoonAPI.dll
